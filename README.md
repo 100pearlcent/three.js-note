@@ -1,3 +1,3 @@
 # three.js-note
 
-	https://threejs-journey.xyz/ 실습용 
+https://threejs-journey.xyz/ 실습용 
